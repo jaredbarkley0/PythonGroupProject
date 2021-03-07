@@ -1,4 +1,4 @@
-What project are you all doing, and why did you choose it as a project? (Test)
+What project are you all doing, and why did you choose it as a project?
 
 Our project will analyze reading test score data from students at various schools in the Iowa City Community School District (ICCSD) to determine if any correlation can be identified between reading test scores and whether or not the student participated in virtual learning during the Fall of 2020. Our analysis will also include other socioeconomic indicators such a whether the child receives free or reduced lunch (FRL), is an English language learner (ELL), or received an individualized education plan (IEP), to see if there is any correlation or interaction between these factors.
 
