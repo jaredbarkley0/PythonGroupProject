@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -21,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/.ipynb_checkpoints" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,7 +40,30 @@
       <updated>1616455356577</updated>
       <workItem from="1616455358070" duration="38000" />
       <workItem from="1616455408357" duration="112000" />
+      <workItem from="1616516724925" duration="5846000" />
     </task>
+    <task id="LOCAL-00001" summary="HW6 Notebook 2 &#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3).">
+      <created>1616521784761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616521784761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HW6 Notebook 2 (Corrected misspelling in title)&#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3).">
+      <created>1616522024392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616522024392</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HW6 Notebook 2 (Corrected misspelling in title)&#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3).">
+      <created>1616522594864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616522594864</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -49,5 +80,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW6 Notebook 2 &#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3)." />
+    <MESSAGE value="HW6 Notebook 2 (Corrected misspelling in title)&#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3)." />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6 Notebook 2 (Corrected misspelling in title)&#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3)." />
   </component>
 </project>
