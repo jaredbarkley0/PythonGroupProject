@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa3db9e1-3145-4f5b-b090-aea47b6a057b" name="Default Changelist" comment="" />
+    <list default="true" id="aa3db9e1-3145-4f5b-b090-aea47b6a057b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -21,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/.ipynb_checkpoints" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,7 +42,16 @@
       <updated>1616455356577</updated>
       <workItem from="1616455358070" duration="38000" />
       <workItem from="1616455408357" duration="112000" />
+      <workItem from="1616516724925" duration="5038000" />
     </task>
+    <task id="LOCAL-00001" summary="HW6 Notebook 2 &#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3).">
+      <created>1616521784761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616521784761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -49,5 +68,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW6 Notebook 2 &#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3)." />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6 Notebook 2 &#10;&#10;Please read over before submitting. &#10;&#10;Will need to take David's questions out under the headings (1,2,3)." />
   </component>
 </project>
