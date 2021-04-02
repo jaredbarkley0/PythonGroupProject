@@ -2,7 +2,7 @@
 
 Our project will analyze Covid case counts in Minnesota by county to try to identify factors that may contribute to higher rates of cases.  We will overlay total Covid case counts by county with multiple potential contributing factors, such as population density, number of long-term care facilities in the county, and whether or not the county is part of a major metropolitan area. We will do some basic analysis to determine if relationships are present. If relationships are found, we will also analyze the nature of the relationships.  Are they linear in nature or do they follow a different pattern?
 
-We are interested in looking at data to see if any geospatial factors can be identified that correlate with higher infection rates of Covid.  This may indicate if spread of the virus is linked to specific behaviors in the community, specific types of institutions within the community, or total density of population.
+We are interested in looking at data to see if any geospatial factors can be identidfied that correlate with higher infection rates of Covid.  This may indicate if spread of the virus is linked to specific behaviors in the community, specific types of institutions within the community, or total density of population.
 
 **What kind of data is it (relates to the above)? Is it from one source, or from multiple sources?**
 
